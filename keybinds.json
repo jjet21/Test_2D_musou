@@ -1,0 +1,35 @@
+{
+  "layout": "AZERTY",
+  "bindings": {
+    "move_up": [
+      "z",
+      "up"
+    ],
+    "move_down": [
+      "s",
+      "down"
+    ],
+    "move_left": [
+      "q",
+      "left"
+    ],
+    "move_right": [
+      "d",
+      "right"
+    ],
+    "dash": [
+      "left shift",
+      "right shift"
+    ],
+    "light_attack": [
+      "space"
+    ],
+    "heavy_attack": [
+      "left ctrl",
+      "right ctrl"
+    ],
+    "musou_attack": [
+      "m"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "bases": [
+    {
+      "name": "North Base",
+      "x": 1600,
+      "y": 400,
+      "radius": 150
+    },
+    {
+      "name": "South Base",
+      "x": 1600,
+      "y": 2000,
+      "radius": 150
+    },
+    {
+      "name": "West Base",
+      "x": 400,
+      "y": 1200,
+      "radius": 150
+    },
+    {
+      "name": "East Base",
+      "x": 2800,
+      "y": 1200,
+      "radius": 150
+    }
+  ]
+}

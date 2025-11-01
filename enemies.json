@@ -1,0 +1,22 @@
+{
+  "spawners": {
+    "base_1": {
+      "enemy": "grunt",
+      "rate": 2,
+      "max": 50,
+      "position": [400, 400]
+    },
+    "base_2": {
+      "enemy": "grunt",
+      "rate": 2,
+      "max": 50,
+      "position": [2800, 400]
+    },
+    "base_3": {
+      "enemy": "officer",
+      "rate": 0.5,
+      "max": 10,
+      "position": [1600, 1200]
+    }
+  }
+}
